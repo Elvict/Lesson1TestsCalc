@@ -1,0 +1,8 @@
+<suite name="Suite One" >
+    <test name="Test One" >
+        <classes>
+            <class name="com.example.tests.Test1DepositCalc" />
+            <class name="com.example.tests.Test1CreditCalc" />
+        </classes>
+    </test>
+</suite>
